@@ -12,4 +12,4 @@ The goal of applying these machine learning models is to predict the target vari
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/nashbalraj08/ml-models-predict-student-performance.git
