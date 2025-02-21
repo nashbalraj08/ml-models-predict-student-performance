@@ -2,7 +2,7 @@
 # Machine Learning Models to Predict Student Performance
 
 ## Overview
-The goal of applying these machine learning models is to predict the target variable within prediction error threshold that generalizes well on unseen data providing insight on student performance 
+The goal of applying these machine learning models is to predict the target variable within the prediction error threshold that generalizes well on unseen data providing insight on student performance 
 
 ## Features
 - Applying Linear and Non-linear Models
@@ -17,3 +17,4 @@ The goal of applying these machine learning models is to predict the target vari
 1. Clone the repository in R-studio:
    ```bash
    git clone https://github.com/nashbalraj08/ml-models-predict-student-performance.git
+2. Run 
