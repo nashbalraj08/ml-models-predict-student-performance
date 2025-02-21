@@ -14,6 +14,6 @@ The goal of applying these machine learning models is to predict the target vari
 - Visualize the MAE of each model for the training and test set
 
 ## Installation
-1. Clone the repository:
+1. Clone the repository in R-studio:
    ```bash
    git clone https://github.com/nashbalraj08/ml-models-predict-student-performance.git
