@@ -17,4 +17,5 @@ The goal of applying these machine learning models is to predict the target vari
 1. Clone the repository in R-studio:
    ```bash
    git clone https://github.com/nashbalraj08/ml-models-predict-student-performance.git
-2. Run 
+2. Run Student Performance R analysis.R file
+   
