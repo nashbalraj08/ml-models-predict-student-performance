@@ -41,7 +41,7 @@ install.packages("NeuralNetTools")
 library(NeuralNetTools)  
 
 # import the excel file
-student_data <- read_excel("C:/Users/Nash Balraj/Documents/STAT605/Assignment/Students Performance Data.xlsx")
+student_data <- read_excel("Students Performance Data.xlsx") # your directory
 str(student_data)
 "OUTPUT:
 649 observations
